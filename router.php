@@ -15,7 +15,7 @@ switch ($request) {
     //     break;
     // case '/contact':
     //     require __DIR__ . '/contact.php';
-    //     break;
+    //     break; pagessssss
 
     default:
         http_response_code(404);
